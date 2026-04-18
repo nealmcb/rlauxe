@@ -529,7 +529,11 @@ SliceDice   Dice, but don’t slice: Optimizing the efficiency of ONEAudit. Sper
     
 Verifiable  Risk-Limiting Audits Are Interactive Proofs — How Do We Guarantee They Are Sound?
     Blom, Caron, Ek, Ozdemir, Pereira, Stark, Teague, Vukcevic
-    submitted to IEEE Symposium on Security and Privacy (S&P 2026) 
+    submitted to IEEE Symposium on Security and Privacy (S&P 2026)
+
+ConsistentSampling  Consistent Sampling with Replacement
+    Rivest
+    https://arxiv.org/abs/1808.10016
 
 ````
 Also see [complete list of references](docs/papers/papers.txt).
